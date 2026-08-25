@@ -4,7 +4,7 @@ Interactive textbook version of the PE syllabus.
 
 # House style
 
-When making changes to logos etc. Please pay attention to the University's house style: https://huisstijl.universiteitleiden.nl/en/huisstijl
+When making changes to logos etc. Please pay attention to the University's [house style](https://huisstijl.universiteitleiden.nl/en/huisstijl)
 
 # JupyterBook2 Template
 
