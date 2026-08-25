@@ -2,22 +2,21 @@
 version: 1
 project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
-  title: Jupyter Book 2 Workshop Template
+  title: PE Syllabus
   description: This description goes in the preface of the pdf output. 
   # keywords: []
   authors:
-    - name: Freek Pols
-    - name: Luuk Fröling
-    - name: Robert Lanzafame
-    - name: Kirstie Whitaker
-    - name: Jim Madge
+      - name: Paul Logman
+      - name: Bas Hensen
+      - name: Tjerk Oosterkamp
+      - name: Sam Lamboo
   license:
     content: CC-BY-4.0
   references:
     myst-guide: https://mystmd.org/guide
 
-  date: 2025-10-20 # ${BUILD_DATE} 
-  github: https://github.com/FreekPols/JB2_book_template # Change this URL to your GitHub repository
+  date: 2026-08-25 # ${BUILD_DATE} 
+  github: https://github.com/NerdyN00B/PE-Syllabus # Change this URL to your GitHub repository
   edit_url: 
   
   plugins:

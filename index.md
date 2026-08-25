@@ -1,5 +1,5 @@
 ---
-title: Jupyter Book 2 Workshop Template
+title: PE Syllabus
 site:
   hide_outline: true
   hide_toc: true
@@ -8,17 +8,17 @@ site:
 
 <div style="text-align: center">
 
-# Jupyter Book 2 Workshop Template
+# PE Syllabus
 
 </div>
 
-```{figure} content/figures/logo.svg
+```{figure} content/figures/logo_UL.svg
 :width: 80%
 :align: center
 ```
 
-_A GitHub Template repository designed for use in Jupyter Book 2 and MyST workshops._
+_Syllabus for the Physics Experiments course._
 
 <div style="text-align: center", font-size: 1.2em>
-Freek Pols, Luuk Fröling, Robert Lanzafame, Kirstie Whitaker, Jim Madge
+Paul Logman, Bas Hensen, Tjerk Oosterkamp, Sam Lamboo
 </div>
