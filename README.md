@@ -1,6 +1,16 @@
+# PE syllabus
+
+Interactive textbook version of the PE syllabus.
+
+# House style
+
+When making changes to logos etc. Please pay attention to the University's house style: https://huisstijl.universiteitleiden.nl/en/huisstijl
+
 # JupyterBook2 Template
 
-This repository provides a template for creating JB2 books using [MystMD](https://mystmd.org/). It is intended to be a general tool to support new users of Jupyter Book 2 and MystMD, in particular for use in workshop settings where participants may not have time or ability to install the required software on a personal computer.
+This repository is made using a template for creating JB2 books using [MystMD](https://mystmd.org/). It is intended to be a general tool to support new users of Jupyter Book 2 and MystMD, in particular for use in workshop settings where participants may not have time or ability to install the required software on a personal computer.
+
+The original template website with instructions can be found at [freekpols.github.io/JB2_book_template/](https://freekpols.github.io/JB2_book_template/).
 
 ## Features
 
